@@ -1,0 +1,8 @@
+skills:
+  - source:
+      repo: alexeygalievv-svg/code-review
+      path: .sourcecraft/skills/code-review
+    settings:
+      inputs:
+        path: "src/"
+        review_type: "full"
